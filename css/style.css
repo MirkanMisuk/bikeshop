@@ -1,0 +1,138 @@
+.navbar {
+    padding: 20px 60px 20px 55px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    background: #000000;
+}
+
+.logo {
+    font-size: 30px;
+}
+
+.banner {
+    width: 100%;
+    height: 680px;
+    background-color: #000000;
+    padding: 0 0 0 70px;
+}
+
+.banner h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 72px;
+}
+
+.img-intro {
+    width: 640px;
+    height: 800px;
+    padding: 0 60px 0 0;
+}
+
+.school {
+    padding: 50px 0 0 0;
+}
+
+.school h1 {
+    padding: 150px 0 0 90px;
+    font-family: 'Poppins';
+    font-weight: 700;
+}
+
+.school h2 {
+    font-family: 'Poppins';
+    font-weight: 600;
+}
+
+.schoolbike {
+    width: 400px;
+    height: 460px;
+}
+
+.midbanner {
+    width: 100%;
+    height: 680px;
+    margin: 130px 0;
+    padding: 30px;
+}
+
+.midimage {
+    position: absolute;
+    left: 758px;
+    top: 1690px;
+}
+
+.midimage img {
+    width: 500px;
+    height: 800px;
+
+}
+
+.nossos h1 {
+    padding: 50px 0 50px 138px;
+    font-family: 'Poppins';
+    font-weight: 700;
+}
+
+.nossos {
+    left: 58px;
+    top: 67px;
+
+}
+
+.midtext {
+    width: 461px;
+    padding-left: 100px;
+}
+
+.yellowtext {
+
+    padding: 50px;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+
+.anajulia {
+    padding: 100px 0 0 0;
+    font-family: "Merriweather";
+}
+
+.anajulia p {
+    font-family: "Merriweather";
+}
+
+.seguros {
+    font-size: 64px;
+
+}
+
+.twocards {
+    padding: 50px 0 100px 0;
+
+}
+
+.tc1 {
+    background-color: #000000;
+    margin-top: 50px;
+    padding: 50px 0 0 0;
+    Width: 462px;
+    Height: 325px;
+}
+
+.tc2 {
+    background-color: #000000;
+    margin: 50px 0 0 0;
+    padding: 50px 0 0 0;
+    Width: 462px;
+    Height: 400px;
+}
+
+.footer {
+    font-family: 'Poppins';
+    background-color: #000000;
+    Width: 1601px;
+    Height: 292px;
+    padding: 50px 0 0 240px;
+}
